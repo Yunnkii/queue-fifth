@@ -1,0 +1,30 @@
+html,body,div{
+	margin:0;
+	padding:0;
+}
+.container{
+	font-size:20px;
+	height:100px;
+	width:700px;
+	margin:100px auto;
+	
+
+}
+input {
+	display:inline-block;
+	margin-left:10px;
+}
+#input{
+	width:250px;
+	height:40px;
+
+}
+.btn{
+		width:80px;
+		height:40px;
+		background:rgba(63,137,236,1);
+		border:none;
+		color:#fff;
+		font-family:"微软雅黑";
+}
+	
